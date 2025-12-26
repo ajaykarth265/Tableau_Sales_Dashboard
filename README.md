@@ -45,7 +45,8 @@ The goal of the project is to derive meaningful business insights through effect
 
 ---
 
-https://public.tableau.com/app/profile/ajay.karthick7909/viz/Sales_Performance_Dashboard_Tableau_17667637451350/Dashboard1?publish=yes
+
 ## 🌐 Live Dashboard
+https://public.tableau.com/app/profile/ajay.karthick7909/viz/Sales_Performance_Dashboard_Tableau_17667637451350/Dashboard1?publish=yes
 🔗 Tableau Public: https://public.tableau.com/your-dashboard-link
 ](https://github.com/ajaykarth265/Tableau_Sales_Dashboard/tree/main)

@@ -1,4 +1,4 @@
-# Sales Performance Analysis Dashboard | Tableau
+[# Sales Performance Analysis Dashboard | Tableau
 
 ## 📌 Project Overview
 This project showcases an interactive Tableau dashboard built to analyze sales performance, pricing behavior, and revenue trends using a large Excel dataset.  
@@ -45,5 +45,7 @@ The goal of the project is to derive meaningful business insights through effect
 
 ---
 
+https://public.tableau.com/app/profile/ajay.karthick7909/viz/Sales_Performance_Dashboard_Tableau_17667637451350/Dashboard1?publish=yes
 ## 🌐 Live Dashboard
 🔗 Tableau Public: https://public.tableau.com/your-dashboard-link
+](https://github.com/ajaykarth265/Tableau_Sales_Dashboard/tree/main)

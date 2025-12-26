@@ -48,3 +48,7 @@ The goal of the project is to derive meaningful business insights through effect
 
 ## 🌐 Live Dashboard
 🔗 https://public.tableau.com/app/profile/ajay.karthick7909/viz/Sales_Performance_Dashboard_Tableau_17667637451350/Dashboard1?publish=yes
+
+
+## 🚀 How to Explore
+You can interact with the dashboard on Tableau Public using filters and highlights. For offline use, download the .twbx and open it in Tableau Desktop or Tableau Public.
